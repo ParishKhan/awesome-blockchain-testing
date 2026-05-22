@@ -35,7 +35,7 @@ Curated list of blog posts, videos and resources on testing blockchains and Web3
 * [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://youtu.be/gyMwXuJrbJQ?si=Uini5LuPalQmaSbd) - free 32-hour course on smart contract development with Javascript / Solidity
 * [Blockchain Specialization](https://www.coursera.org/specializations/blockchain)
 * [Decentralized Finance (DeFi): The Future of Finance Specialization](https://www.coursera.org/specializations/decentralized-finance-duke)
-* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+* [TutorialSearch](https://tutorialsearch.io/browse/blockchain-web3/blockchain-applications) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### Videos
 
